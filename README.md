@@ -1,5 +1,5 @@
 # Top-Coding-Questions
-Top coding problems for getting started with CP and placements.
+Top coding problems for getting started with CP and for placement preparations.
 
 ### Questions are from:
 	1. Geeks for Geeks - Must Do Coding Questions
