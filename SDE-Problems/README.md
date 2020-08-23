@@ -16,10 +16,10 @@
 
 ### Math:
     01. Excel Column Number
-    02. Find n^x in log N
-    03. Count trailing zeros in factorial of a number
-    04. Find GCD in Log N
-    05. Grid Unique Paths
+    02. Pow(x, n)            --> Find x^n in O(log N) time
+    03. Factorial Trailing Zeroes
+    04. LCM And GCD in O(Log N)
+    05. Unique Paths in a Grid
     06. Go through Puzzles from GFG
 
 ### Hashing:
