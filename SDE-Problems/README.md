@@ -23,11 +23,11 @@
     06. Go through Puzzles from GFG
 
 ### Hashing:
-    01. 2 Sum problem
-    02. 4 Sum problem
+    01. Two Sum problem
+    02. Four Sum problem
     03. Longest Consecutive Sequence
     04. Longest Subarray with 0 sum
-    05. Count number of subarrays with given XOR (this clears a lot of problems)
+    05. XOR Queries of a Subarray
     06. Longest substring without repeat
 
 ### Linked List:
