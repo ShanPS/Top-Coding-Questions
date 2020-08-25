@@ -34,7 +34,7 @@
     01. Reverse a Linked List
     02. Find middle of Linked List
     03. Merge two sorted Linked List
-    04. Remove N-th node from back of Linked List
+    04. Remove N-th node from the end of the Linked List
     05. Delete a given Node when a node is given. 0(1) solution
     06. Add two numbers as Linked List
     07. Find intersection point of Y Linked List
