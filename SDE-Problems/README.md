@@ -40,10 +40,11 @@
     07. Find intersection point of Y Linked List
     08. Check if a Linked List is palindrome or not
     09. Reverse a Linked List in groups
-    10. Detect a cycle and removing loop (two different questions and same concept)
-    11. Flattening of a Linked List
-    12. Rotate a Linked List
-    13. Clone a Linked List with random and next pointer
+    10. Linked List cycle   --> Given a linked list, determine if it has a cycle in it
+    11. Remove loop in Linked List
+    12. Flatten a Multilevel Doubly Linked List
+    13. Rotate a Linked List
+    14. Clone a Linked List with next pointer and random pointer
 
 ### 2-pointer:
     01. Merge two sorted Linked Lists
