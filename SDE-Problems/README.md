@@ -46,7 +46,7 @@
     13. Rotate a Linked List
     14. Clone a Linked List with next pointer and random pointer
 
-### 2-pointer:
+### 2-pointers:
     01. Merge two sorted Linked Lists
     02. Find the starting point of the loop
     03. 3 sum
