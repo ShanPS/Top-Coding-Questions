@@ -55,12 +55,11 @@
     06. Max continuous number of 1s
 
 ### Greedy:
-    01. N meeting in one room
-    02. Activity Selection
-    03. Greedy algorithm to find minimum number of coins
-    04. Fractional Knapsack Problem
-    05. Minimum number of platforms required for a railway
-    06. Job sequencing Problem
+    01. N meeting in one room (Activity Selection)
+    02. Coin Piles
+    03. Fractional Knapsack Problem
+    04. Minimum number of platforms required for a railway
+    05. Job sequencing Problem
 
 ### Backtracking:
     01. N queens Problem
