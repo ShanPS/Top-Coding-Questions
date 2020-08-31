@@ -76,9 +76,9 @@
     12. K-th permutation Sequence
 
 ### Divide and Conquer:
-    01. 1/N-th root of an integer (use binary search) (square root, cube root, ...)
-    02. Matrix Median
-    03. Find the element that appears once in sorted array, and rest element appears twice (Binary search)
+    01. Square root of an +ve-integer (use binary search)
+    02. Median In a Row-Wise sorted Matrix
+    03. Find the element that appears once in sorted array, and rest element appears twice
     04. Search element in a sorted and rotated array
     05. K-th element of two sorted arrays
     06. Media of an array
