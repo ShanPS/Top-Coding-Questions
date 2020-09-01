@@ -78,7 +78,7 @@
 ### Divide and Conquer:
     01. Square root of an +ve-integer (use binary search)
     02. Median In a Row-Wise sorted Matrix
-    03. Find the element that appears once in sorted array, and rest element appears twice
+    03. Single Element in a Sorted Array
     04. Search element in a sorted and rotated array
     05. K-th element of two sorted arrays
     06. Media of an array
