@@ -81,7 +81,7 @@
     03. Single Element in a Sorted Array
     04. Search element in a sorted and rotated array
     05. K-th element of two sorted arrays
-    06. Media of an array
+    06. Median of Two Sorted Arrays
 
 ### Bitwise:
     01. Check if a number if a power of 2 or not in O(1)
