@@ -84,12 +84,12 @@
     06. Median of Two Sorted Arrays
 
 ### Bitwise:
-    01. Check if a number if a power of 2 or not in O(1)
+    01. Check if Power of Two in O(1)
     02. Count total set bits
-    03. Divide Integers without / operator
-    04. Power Set (very important)
-    05. Find MSB in O(1)
-    06. Find square of a number without using multiplication or division operators
+    03. Divide Two Integers
+    04. Subsets (very important --> Power Set)
+    05. Most significant set bit of a number in O(1) time
+    06. Square of an Integer
 
 ### Stack and Queue:
     01. Implement Stack / Implement Queue
