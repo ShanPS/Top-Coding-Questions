@@ -92,12 +92,12 @@
     06. Square of an Integer
 
 ### Stack and Queue:
-    01. Implement Stack / Implement Queue
+    01. DFS
     02. BFS
-    03. Implement Stack using Queue
-    04. Implement Queue using Stack
-    05. Check for balanced parentheses
-    06. Next Greater Element
+    03. Implement Stack using Queues
+    04. Implement Queue using Stacks
+    05. Valid Parentheses
+    06. Next Larger Element
     07. Next Smaller Element
     08. LRU cache (very important)
     09. Largest rectangle in histogram
