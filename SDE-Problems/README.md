@@ -102,8 +102,8 @@
     08. LRU cache (very important)
     09. Largest rectangle in histogram
     10. Sliding Window Maximum
-    11. Implement Min Stack
-    12. Rotten Orange (Using BFS)
+    11. Min Stack
+    12. Rotting Oranges (Using BFS)
 
 ### String:
     01. Reverse Words in a String
