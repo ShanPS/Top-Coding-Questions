@@ -107,7 +107,7 @@
 
 ### String:
     01. Reverse Words in a String
-    02. Longest Palindrome in a string
+    02. Longest Palindromic Substring
     03. Roman Number to Integer and vice versa
     04. Implement ATOI/STRSTR
     05. Longest Common Prefix
