@@ -120,9 +120,9 @@
     12. Compare version numbers
 
 ### Binary Tree:
-    01. Inorder Traversal (with recursion and without recursion)
-    02. Preorder Traversal (with recursion and without recursion)
-    03. Postorder Traversal (with recursion and without recursion)
+    01. Binary Tree Inorder Traversal
+    02. Binary Tree Preorder Traversal
+    03. Binary Tree Postorder Traversal
     04. LeftView Of Binary Tree
     05. Bottom View of Binary Tree
     06. Top View of Binary Tree
