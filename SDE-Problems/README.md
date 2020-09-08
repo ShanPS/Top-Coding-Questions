@@ -140,8 +140,8 @@
     18. Check if Binary Tree is mirror of itself or not
 
 ### Binary Search Tree:
-    01. Populate Next Right pointers of Tree
-    02. Search given Key in BST
+    01. Populating Next Right Pointers in Each Node
+    02. Search in a Binary Search Tree
     03. Construct BST from given keys
     04. Check is a BT is BST or not
     05. Find LCA of two nodes in BST
