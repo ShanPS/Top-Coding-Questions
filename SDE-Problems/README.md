@@ -154,7 +154,7 @@
     12. Serialize and deserialize Binary Tree
 
 ### Mixed Questions:
-    01. Binary Tree to Double Linked List
+    01. Binary Tree to DLL
     02. Find median in a stream of running integers
     03. K-th largest element in a stream
     04. Distinct numbers in Window
