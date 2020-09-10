@@ -162,7 +162,7 @@
     06. Flood-fill Algorithm
 
 ### Graph:
-    01. Clone a graph (Not that easy as it looks)
+    01. Clone Graph (Not that easy as it looks)
     02. DFS
     03. BFS
     04. Detect A cycle in Undirected Graph/Directed Graph
