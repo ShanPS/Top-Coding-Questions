@@ -177,12 +177,12 @@
     13. MST using Kruskal’s Algorithm
 
 ### Dynamic Programming:
-    01. Max Product Subarray
+    01. Maximum Product Subarray
     02. Longest Increasing Subsequence
     03. Longest Common Subsequence
     04. 0-1 Knapsack
     05. Edit Distance
-    06. Maximum sum increasing subsequence
+    06. Maximum Sum Increasing Subsequence
     07. Matrix Chain Multiplication
     08. Maximum sum path in matrix (count paths, and similar type do, also backtrack to find the maximum path)
     09. Coin Change
