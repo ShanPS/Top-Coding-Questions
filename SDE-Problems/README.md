@@ -184,10 +184,10 @@
     05. Edit Distance
     06. Maximum Sum Increasing Subsequence
     07. Matrix Chain Multiplication
-    08. Maximum sum path in matrix (count paths, and similar type do, also backtrack to find the maximum path)
+    08. Maximum Path Sum in Matrix
     09. Coin Change
     10. Subset Sum
-    11. Rod Cutting
-    12. Egg Dropping
+    11. Maximize The Cut Segments
+    12. Egg Dropping Puzzle
     13. Word Break
-    14. Palindrome Partitioning (MCM Variation)
+    14. Palindromic Partitioning
