@@ -1,4 +1,4 @@
-# SDE Problems by Striver
+# SDE Problems - Striver's List
 
 ### Arrays:
     01. Find the Duplicate   --> Get the duplicate element in an array of N+1 integers (elements will be in the range 0 to N)
@@ -165,16 +165,17 @@
     01. Clone Graph (Not that easy as it looks)
     02. DFS
     03. BFS
-    04. Detect A cycle in Undirected Graph/Directed Graph
-    05. Topological Sort
-    06. Number of islands (Do in Grid and Graph both)
-    07. Bipartite Check
-    08. SCC (using KosaRaju’s algorithm)
-    09. Djisktra’s Algorithm
-    10. Bellman Ford Algorithm
-    11. Floyd Warshall Algorithm
-    12. MST using Prim’s Algorithm
-    13. MST using Kruskal’s Algorithm
+    04. Detect cycle in an Undirected Graph
+    05. Detect cycle in a Directed Graph
+    06. Topological Sort
+    07. Find the number of islands
+    08. Bipartite Check
+    09. Strongly Connected Components (Kosaraju's Algo)
+    10. Djisktra’s Algorithm
+    11. Bellman Ford Algorithm
+    12. Floyd Warshall Algorithm
+    13. MST using Prim’s Algorithm
+    14. MST using Kruskal’s Algorithm
 
 ### Dynamic Programming:
     01. Maximum Product Subarray
