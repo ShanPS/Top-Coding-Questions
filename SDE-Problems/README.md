@@ -155,10 +155,10 @@
 
 ### Mixed Questions:
     01. Binary Tree to DLL
-    02. Find median in a stream of running integers
-    03. K-th largest element in a stream
-    04. Distinct numbers in Window
-    05. K-th largest element in an unsorted array
+    02. Find Median from Data Stream
+    03. Kth largest element in a stream 
+    04. Count distinct elements in every window
+    05. K-th smallest/largest element in an unsorted array
     06. Flood-fill Algorithm
 
 ### Graph:
